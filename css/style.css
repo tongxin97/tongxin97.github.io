@@ -32,17 +32,20 @@ html, body {
 header {
     display: block;
     position: relative;
-    top: 30px;
+    top: 5%;
     left: 40%;
     padding: 5px;
-    width: 15em;
-    height: 100%;
+    padding-top: 0;
+    width: 16em;
+    height: 80%;
     float: left;
+
+    border-right: 2px dashed  #cccccc;
 }
 
 div.contact {
     position: absolute;
-    bottom: 20%;
+    bottom: 3%;
 }
 
 span {
@@ -50,16 +53,17 @@ span {
     margin-top: 10px;
 }
 
-a.contact-link {
+a {
     color: #a6a6a6;
     text-decoration: none;
 }
 
-a.contact-link:hover {
+a:hover {
     color: #007acc;
 }
 
 h1 {
+    color: #008ae6;
     font-size: 1.7em;
 }
 
@@ -80,7 +84,7 @@ li {
     margin-top: 8px;
 }
 
-li > a {
+li.links > a {
     font-size: 1.2em;
     color: #a6a6a6;
     text-decoration: none;
@@ -91,15 +95,16 @@ li > a:hover {
 }
 
 #main {
-    position: absolute;
-    right: 5%;
-    top: 60px;
+    position: relative;
+    left: 30%;
+    top: 50px;
     padding:10px;
+    padding-bottom: 100px;
     width: 65%;
     height: auto;
     text-align: center;
 
-    border-left: 2px dashed  #cccccc;
+    border-bottom: 1px solid #cccccc;
 }
 
 #profilePic {
@@ -120,11 +125,85 @@ h2 {
     font-size: 1.2em;
 }
 
+div#skill-sets {
+    height: 200px;
+}
+
 div.skills {
     float: left;
     width: 30%;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 1%;
+    margin-right: 8px;
+}
+
+/*#courses-list {
+    margin: auto;
+    padding-left: 0;
+    height: 250px;
+}*/
+
+#code, #creative, #art {
+    position: relative;
+    left: 30%;
+    margin-top: 100px;
+    padding: 5px;
+    padding-bottom: 100px;
+    width: 65%;
+    height: auto;
+    text-align: center;
+
+    border-bottom: 1px solid #cccccc;
+}
+
+#code {
+    margin-top: 150px;
+}
+
+ul#code-projects {
+    padding: 0;
+}
+
+ul#code-projects > li {
+    width: 80%;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.projectPics {
+    margin: auto;
+    filter: grayscale(70%);
+    opacity: 0.8;
+    border: 2px solid #cccccc;
+}
+
+.projectPics:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+h3 {
+    color: gray;
+    font-size: 1.2em;
+}
+
+h3:hover {
+    color: #007acc;
+}
+
+h4 {
+    color: gray;
+    font-size: 1em;
+}
+
+.creatives, .arts {
+    width: 80%;
+    margin:auto;
+    margin-top: 70px;
+}
+
+.creatives > img, .arts > img {
+    border: 2px solid #cccccc;
+    margin-top: 10px;
 }
 
 footer {
@@ -147,6 +226,7 @@ footer {
     header {
         display: block;
         left:12%;
+        width: 85%;
     }
     h1 {
         font-size: 1.3em;
@@ -154,6 +234,10 @@ footer {
 
     li > a, div.contact{
         font-size: 1em;
+    }
+
+    div.skills {
+        margin-right: 0;
     }
 }
 
@@ -176,9 +260,10 @@ footer {
     }
 
     header {
-        top: 50px;
+        top: 70px;
         left: 20px;
         z-index: 2;
+        border: none;
     }
     .nav-bar {
         display: block;
@@ -189,10 +274,26 @@ footer {
         color: #a6a6a6;
     }
 
-    #main {
+    #main, #code, #creative, #art {
         width: 90%;
-        border-left: none;
+        left: 4%;
         z-index: 0;
     }
+}
 
+@media only screen and (max-width: 680px) {
+    ul {
+        padding-left: 0;
+    }
+    div#skill-sets {
+        height: 480px;
+    }
+    div.skills {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+    #main, #code, #creative, #art {
+        left: 2%;
+    }
 }

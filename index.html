@@ -16,9 +16,9 @@
                 <h1> <a href="/"> Cynthia Xin Tong </a> </h1>
                 <nav>
                     <ul id="nav-links">
-                        <li><a href="/code">Code</a></li>
-                        <li><a href="/creative">Creative</a></li>
-                        <li><a href="/art">Art &amp; Design</a></li>
+                        <li class="links"><a href="#code">Code</a></li>
+                        <li class="links"><a href="#creative">Creative</a></li>
+                        <li class="links"><a href="#art">Art &amp; Design</a></li>
                     <ul>
                 </nav>
 
@@ -38,7 +38,7 @@
         </div>    <!-- nav  -->
 
         <div id="main">
-            <img id="profilePic" src="media/profile.jpeg" width="180" height="180">
+            <img id="profilePic" src="media/profile.jpeg" alt="profile-picture" width="180" height="180">
 
             <p id="intro">
                 ​Hi, I'm Xin (Cynthia) Tong.<br>
@@ -49,35 +49,166 @@
             </p>
 
             <h2>Skill Sets</h2>
-            <div class="skills">
-                <ul>
-                    <li>Java, Python</li>
-                    <li>JavaScript (ES6+)</li>
-                    <li>React, Vue</li>
-                    <li>Node, Mongo DB</li>
-                    <li> Git </li>
-                <ul>
+            <div id="skill-sets">
+                <div class="skills">
+                    <ul>
+                        <li>Java, Python</li>
+                        <li>JavaScript (ES6+)</li>
+                        <li>React, Vue</li>
+                        <li>Node, Mongo DB</li>
+                        <li> Git </li>
+                    <ul>
+                </div>
+
+                <div class="skills">
+                    <ul>
+                        <li>Processing</li>
+                        <li>p5.js, D3.js</li>
+                        <li>Three.js</li>
+                        <li>CSS Animation</li>
+                    <ul>
+                </div>
+
+                <div class="skills">
+                    <ul>
+                        <li>Illustrator</li>
+                        <li>Inkscape</li>
+                        <li>Blender</li>
+                        <li>Arduino</li>
+                        <li>3D Printing</li>
+                    <ul>
+                </div>
             </div>
 
-            <div class="skills">
-                <ul>
-                    <li>Processing</li>
-                    <li>p5.js, D3.js</li>
-                    <li>Three.js</li>
-                    <li>CSS Animation</li>
-                <ul>
+            <!-- <h2>Courses Taken</h2>
+            <ul id="courses-list">
+                <li>Introduction to Interactive Media</li>
+                <li>Mashups: Creating with Web APIs</li>
+                <li>Dynamic Web Applications</li>
+                <li>Data Structures</li>
+                <li>Discrete Mathematics</li>
+                <li>Drawing on the Web</li>
+                <li>3D Modeling</li>
+            <ul> -->
+
+        </div> <!-- main  -->
+
+        <div id="code">
+            <h1>Code</h1>
+            <ul id="code-projects">
+                <li class="projects">
+                    <a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">
+                        <h3>Dynamic Web Applications</h3>
+                    </a>
+                    <h4>Spring, 17</h4>
+                    <a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">
+                        <img class="projectPics" src="media/code/dynamic_web.png"  alt="dynamic-web-projects" width="700" height="436">
+                    </a>
+
+                    <p>Web development projects I did for the
+                        <a href="https://github.com/antiboredom/dynamicweb-2017" target="_blank">Dynamic Web Applications</a>
+                        course at NYU Tandon School of Engineering, Spring 2017.
+                        Used multiple front-end libraries, socket.io, Node-Express back-end, and Mongo DB.
+                    </p>
+                </li>
+                <li class="projects">
+                    <a href="http://xt405.nyuad.im/draw_web/" target="_blank">
+                        <h3>Drawings on the Web</h3>
+                    </a>
+                    <h4>Spring, 17</h4>
+                    <a href="http://xt405.nyuad.im/draw_web/" target="_blank">
+                        <img class="projectPics" src="media/code/draw_web.png"  alt="drawing-on-the-web-projects" width="700" height="436">
+                    </a>
+                    <p>
+                        Single-page web drawings I created for the
+                        <a href="http://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web </a>
+                        course at NYU Courant, Spring 2017.
+                        Used multiple techniques and libraries including SVGs, CSS Animations, p5.js and Three.js.
+                    </p>
+                </li>
+                <li class="projects">
+                    <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">
+                        <h3>Audio Wave</h3>
+                    </a>
+                    <h4>Oct, 17</h4>
+
+                    <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">
+                        <img class="projectPics" src="media/code/audio_wave.png"  alt="audio-wave-project" width="700" height="436">
+                    </a>
+                    <p>
+                        The mid-term project I did for the
+                        <a href="https://github.com/craigprotzel/Mashups" target="_blank">Mashups - Creating with Web APIs</a>
+                        class. It utilizes Web Audio API and the SoundCloud public API to visualize the incoming audio
+                        into a wave form. The visualization is done with D3.js.
+                    </p>
+                </li>
+                <li class="projects">
+                    <a href="https://meme2d.herokuapp.com/" target="_blank">
+                    <h3>meme2D</h3>
+                    </a>
+                    <h4>Dec, 16</h4>
+                    <a href="https://meme2d.herokuapp.com/" target="_blank">
+                        <img class="projectPics" src="media/code/meme2d.png"  alt="meme2d-project" width="700" height="436">
+                    </a>
+                    <p>Final project for <a href="https://github.com/craigprotzel/Mashups" target="_blank">Mashups</a>.
+                       Used p5.js and the box2DWeb physics engine, and Node-Express back-end. The site allows users to add texts to their own memes.
+                       In addition, the box2D part enables users to play with the geometric shapes with their cursor.
+                    </p>
+                </li>
+            </ul>
+        </div> <!-- code  -->
+
+        <div id="creative">
+            <h1>Creative</h1>
+
+            <div class="creatives">
+                <h3>Portal Room </h3>
+                <h4>May, 17</h4>
+                <img src="media/creative/3d/render7.png"  alt="portal-render" width="700" height="515">
+                <img src="media/creative/3d/render0.png"  alt="portal-render" width="700" height="515">
+                <img src="media/creative/3d/render4.png"  alt="portal-render" width="700" height="515">
+                <img src="media/creative/3d/render6.png"  alt="portal-render" width="700" height="515">
+                <p>
+                    Final project for 3D Modeling. It's a model of a room in the game
+                    <a href="http://www.thinkwithportals.com/" target="_blank">Portal</a>. Created meshes,
+                    materials and textures in Blender.
+                </p>
             </div>
 
-            <div class="skills">
-                <ul>
-                    <li>Illustrator</li>
-                    <li>Inkscape</li>
-                    <li>Blender</li>
-                    <li>Arduino</li>
-                    <li>3D Printing</li>
-                <ul>
+            <div class="creatives">
+                <h3>Lights of Constellations</h3>
+                <h4>Dec, 15</h4>
+                <img src="media/creative/light/light-front.jpg"  alt="light-pic" width="700" height="500">
+                <iframe src="https://player.vimeo.com/video/149319617" width="700" height="393.75" frameborder="0"
+                webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+                <p>"Lights of Constellation" is a project I did for the Interactive Media showcase in December, 2015 at NYU Abu Dhabi.
+                    The idea is to let the computer communicate with a physical object. I mappped the night sky chart on
+                    a computer screen to a physical board of LEDs, and coded the serial communication between
+                    <a href="https://processing.org/" target="_blank">Processing</a> programs
+                    and an <a href="https://www.arduino.cc/" target="_blank">Arduino</a> microcontroller.
+                </p>
             </div>
-        </div>
+        </div> <!-- creative  -->
+
+        <div id="art">
+            <h1>Art &amp; Design</h1>
+
+            <div class="arts">
+                <h3>GeoMatrix</h3>
+                <h4>May, 16</h4>
+                <img src="media/art/matrix/matrix-front.jpg"  alt="matrix-pic" width="700" height="515">
+                <img src="media/art/matrix/matrix-model.jpg"  alt="matrix-pic" width="700" height="515">
+                <img src="media/art/matrix/matrix-far.jpg"  alt="matrix-pic" width="700" height="515">
+                <img src="media/art/matrix/matrix-detail.jpg"  alt="matrix-pic" width="700" height="515">
+
+                <p>GeoMatrix is a sculpture project I created for the end-of-semester 3D show at NYU Abu Dhabi in May, 2016.
+                   The structure is built with roughly 50 wooden sticks. Each 35cm long, 3cm by 3cm thick. They are drilled and joined
+                   together by nails. The joints are not hidden, as they represent the "raw" nature of carpentry and art making.
+               </p>
+            </div>
+
+        </div> <!-- art  -->
 
         <!-- <footer>
             <p>Cynthia Xin Tong &copy; 2017</p>
