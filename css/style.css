@@ -277,6 +277,10 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
+    ul {
+          padding-left: 15px;
+    }
+
     #main, #code, #creative, #art {
         width: 100%;
         left: 0;
