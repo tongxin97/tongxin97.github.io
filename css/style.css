@@ -220,20 +220,18 @@ footer {
     header {
         padding-left: 15%;
     }
-
     h1#name {
         font-size: 1.5em;
     }
 }
 
-
 @media only screen and (max-width: 1100px) {
     header {
-        padding-left: 5%;
+        padding-left: 10%;
     }
 }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 980px) {
 
     #nav {
         position:fixed;
@@ -279,19 +277,7 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
-    ul {
-        padding-left: 0;
-    }
-    div#skill-sets {
-        height: 480px;
-    }
-    div.skills {
-        float: none;
-        width: 100%;
-        margin-left: 0;
-    }
     #main, #code, #creative, #art {
         width: 100%;
         left: 0;
-    }
 }
