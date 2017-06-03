@@ -10,10 +10,19 @@ html, body {
     height: 100%;
 }
 
+/*.col-md-3 {
+    border: 1px solid black;
+}
+
+.col-md-9 {
+    border: 1px solid black;
+}*/
+
 #nav {
-    position: fixed;
-    width: 15em;
-    height: 110%;
+    position: sticky;
+    top: 0px;
+    width: auto;
+    height: 800px;
 }
 
 .nav-bar {
@@ -30,15 +39,11 @@ html, body {
 }
 
 header {
-    display: block;
     position: relative;
-    top: 4%;
-    left: 40%;
-    padding: 5px;
-    padding-top: 0;
-    width: 16em;
+    top: 8%;
+    padding-left: 25%;
+    width: 110%;
     height: 80%;
-    float: left;
 
     border-right: 2px dashed  #cccccc;
 }
@@ -55,6 +60,9 @@ span {
 
 a {
     color: #a6a6a6;
+}
+
+a, a:hover, a:focus {
     text-decoration: none;
 }
 
@@ -94,17 +102,20 @@ li > a:hover {
     color: #007acc;
 }
 
-#main {
+#main, #code, #creative, #art {
     position: relative;
-    left: 30%;
     top: 50px;
-    padding:10px;
+    padding-top: 20px;
     padding-bottom: 100px;
-    width: 65%;
+    width: 100%;
     height: auto;
     text-align: center;
 
     border-bottom: 1px solid #cccccc;
+}
+
+#code, #creative, #art  {
+    margin-top: 80px;
 }
 
 #profilePic {
@@ -126,38 +137,25 @@ h2 {
 }
 
 div#skill-sets {
+    margin-left: 10px;
     height: 200px;
 }
 
 div.skills {
     float: left;
-    width: 30%;
-    margin-left: 1%;
-    margin-right: 8px;
+    width: 33%;
+    margin-left: -9px;
 }
 
+p {
+    margin-top: 20px;
+}
 /*#courses-list {
     margin: auto;
     padding-left: 0;
     height: 250px;
 }*/
 
-#code, #creative, #art {
-    position: relative;
-    left: 30%;
-    margin-top: 100px;
-    padding: 5px;
-    padding-bottom: 100px;
-    width: 65%;
-    height: auto;
-    text-align: center;
-
-    border-bottom: 1px solid #cccccc;
-}
-
-#code {
-    margin-top: 150px;
-}
 
 ul#code-projects {
     padding: 0;
@@ -171,6 +169,8 @@ ul#code-projects > li {
 
 .projectPics {
     margin: auto;
+    margin: 10px;
+    margin-bottom: 10px;
     filter: grayscale(70%);
     opacity: 0.8;
     border: 2px solid #cccccc;
@@ -202,8 +202,9 @@ h4 {
 }
 
 .creatives > img, .arts > img {
+    margin: 10px;
+    margin-bottom: 10px;
     border: 2px solid #cccccc;
-    margin-top: 10px;
 }
 
 footer {
@@ -217,33 +218,25 @@ footer {
 
 @media only screen and (max-width: 1300px) {
     header {
-        display: block;
-        left: 15%;
+        padding-left: 15%;
+    }
+
+    h1#name {
+        font-size: 1.5em;
     }
 }
 
+
 @media only screen and (max-width: 1100px) {
     header {
-        display: block;
-        left:12%;
-        width: 85%;
-    }
-    h1 {
-        font-size: 1.3em;
-    }
-
-    li > a, div.contact{
-        font-size: 1em;
-    }
-
-    div.skills {
-        margin-right: 0;
+        padding-left: 5%;
     }
 }
 
 @media only screen and (max-width: 950px) {
 
     #nav {
+        position:fixed;
         background-color: #e6e6e6;
         z-index: 1;
         left: -15em;
@@ -251,7 +244,7 @@ footer {
 
     .nav-transform {
         transition: transform;
-        transition-duration: 0.7s;
+        transition-duration: 0.5s;
         transition-timing-function: linear;
     }
 
@@ -260,8 +253,8 @@ footer {
     }
 
     header {
-        top: 70px;
-        left: 20px;
+        padding-right: 20px;
+        top: 90px;
         z-index: 2;
         border: none;
     }
@@ -274,14 +267,18 @@ footer {
         color: #a6a6a6;
     }
 
+    li > a:hover, a.contact-link:hover {
+        color: #007acc;
+    }
+
     #main, #code, #creative, #art {
-        width: 90%;
-        left: 4%;
+        width: 150%;
+        left: -43%;
         z-index: 0;
     }
 }
 
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 768px) {
     ul {
         padding-left: 0;
     }
@@ -294,6 +291,7 @@ footer {
         margin-left: 0;
     }
     #main, #code, #creative, #art {
-        left: 2%;
+        width: 100%;
+        left: 0;
     }
 }

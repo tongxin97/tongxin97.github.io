@@ -2,41 +2,54 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" maximum-scale="1" user-scalable="no">
         <title>Cynthia Xin Tong</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="shortcut icon" href="media/favicon.ico">
         <script src="https://use.fontawesome.com/4e7da0c98a.js"></script>
     </head>
     <body>
-        <span class="nav-bar">
-            <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
-        </span>
-        <div id="nav">
-            <header>
-                <h1> <a href="/"> Cynthia Xin Tong </a> </h1>
-                <nav>
-                    <ul id="nav-links">
-                        <li class="links"><a href="#code">Code</a></li>
-                        <li class="links"><a href="#creative">Creative</a></li>
-                        <li class="links"><a href="#art">Art &amp; Design</a></li>
-                    <ul>
-                </nav>
+        <div class="container-fluid">
 
-                <div class="contact">
-                    <span class="links"><i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                        <a class="contact-link" href="mailto:cynthia.tong@nyu.edu">cynthia.tong@nyu.edu</a>
-                    </span>
-                    <span class="links"><i class="fa fa-github fa-lg" aria-hidden="true"></i>
-                        <a class="contact-link" href="https://github.com/CynthiaTong" target="_blank">CynthiaTong</a>
-                    </span>
-                    <span class="links"><i class="fa fa-paperclip fa-lg" aria-hidden="true"></i>
-                        <a class="contact-link" href="media/Cynthia_Xin_Tong_CV.pdf" target="_blank">CV</a>
-                    </span>
+        <div class="row">
 
-                </div>
-            </header>
-        </div>    <!-- nav  -->
+        <div class="col-md-3">
+            <span class="nav-bar">
+                <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            </span>
+            <div id="nav">
+                <header>
+                    <h1 id="name"> <a href="/"> Cynthia Xin Tong </a> </h1>
+                    <nav>
+                        <ul id="nav-links">
+                            <li class="links"><a href="#code">Code</a></li>
+                            <li class="links"><a href="#creative">Creative</a></li>
+                            <li class="links"><a href="#art">Art &amp; Design</a></li>
+                        <ul>
+                    </nav>
 
+                    <div class="contact">
+                        <span class="links"><i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+                            <a class="contact-link" href="mailto:cynthia.tong@nyu.edu">cynthia.tong@nyu.edu</a>
+                        </span>
+                        <span class="links"><i class="fa fa-github fa-lg" aria-hidden="true"></i>
+                            <a class="contact-link" href="https://github.com/CynthiaTong" target="_blank">CynthiaTong</a>
+                        </span>
+                        <span class="links"><i class="fa fa-paperclip fa-lg" aria-hidden="true"></i>
+                            <a class="contact-link" href="media/Cynthia_Xin_Tong_CV.pdf" target="_blank">CV</a>
+                        </span>
+
+                    </div>
+                </header>
+            </div>    <!-- nav  -->
+        </div>
+
+        <div class="col-md-9 col-sm-12">
         <div id="main">
             <img id="profilePic" src="media/profile.jpeg" alt="profile-picture" width="180" height="180">
 
@@ -102,7 +115,7 @@
                     </a>
                     <h4>Spring, 17</h4>
                     <a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">
-                        <img class="projectPics" src="media/code/dynamic_web.png"  alt="dynamic-web-projects" width="700" height="436">
+                        <img class="projectPics img-fluid" src="media/code/dynamic_web.png"  alt="dynamic-web-projects" width="700" height="436">
                     </a>
 
                     <p>Web development projects I did for the
@@ -117,7 +130,7 @@
                     </a>
                     <h4>Spring, 17</h4>
                     <a href="http://xt405.nyuad.im/draw_web/" target="_blank">
-                        <img class="projectPics" src="media/code/draw_web.png"  alt="drawing-on-the-web-projects" width="700" height="436">
+                        <img class="projectPics img-fluid" src="media/code/draw_web.png"  alt="drawing-on-the-web-projects" width="700" height="436">
                     </a>
                     <p>
                         Single-page web drawings I created for the
@@ -133,7 +146,7 @@
                     <h4>Oct, 17</h4>
 
                     <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">
-                        <img class="projectPics" src="media/code/audio_wave.png"  alt="audio-wave-project" width="700" height="436">
+                        <img class="projectPics img-fluid" src="media/code/audio_wave.png"  alt="audio-wave-project" width="700" height="436">
                     </a>
                     <p>
                         The mid-term project I did for the
@@ -148,7 +161,7 @@
                     </a>
                     <h4>Dec, 16</h4>
                     <a href="https://meme2d.herokuapp.com/" target="_blank">
-                        <img class="projectPics" src="media/code/meme2d.png"  alt="meme2d-project" width="700" height="436">
+                        <img class="projectPics img-fluid" src="media/code/meme2d.png"  alt="meme2d-project" width="700" height="436">
                     </a>
                     <p>Final project for <a href="https://github.com/craigprotzel/Mashups" target="_blank">Mashups</a>.
                        Used p5.js and the box2DWeb physics engine, and Node-Express back-end. The site allows users to add texts to their own memes.
@@ -164,10 +177,10 @@
             <div class="creatives">
                 <h3>Portal Room </h3>
                 <h4>May, 17</h4>
-                <img src="media/creative/3d/render7.png"  alt="portal-render" width="700" height="515">
-                <img src="media/creative/3d/render0.png"  alt="portal-render" width="700" height="515">
-                <img src="media/creative/3d/render4.png"  alt="portal-render" width="700" height="515">
-                <img src="media/creative/3d/render6.png"  alt="portal-render" width="700" height="515">
+                <img class="img-fluid" src="media/creative/3d/render7.png"  alt="portal-render" width="700" height="515">
+                <img class="img-fluid" src="media/creative/3d/render0.png"  alt="portal-render" width="700" height="515">
+                <img class="img-fluid" src="media/creative/3d/render4.png"  alt="portal-render" width="700" height="515">
+                <img class="img-fluid" src="media/creative/3d/render6.png"  alt="portal-render" width="700" height="515">
                 <p>
                     Final project for 3D Modeling. It's a model of a room in the game
                     <a href="http://www.thinkwithportals.com/" target="_blank">Portal</a>. Created meshes,
@@ -178,8 +191,8 @@
             <div class="creatives">
                 <h3>Lights of Constellations</h3>
                 <h4>Dec, 15</h4>
-                <img src="media/creative/light/light-front.jpg"  alt="light-pic" width="700" height="500">
-                <iframe src="https://player.vimeo.com/video/149319617" width="700" height="393.75" frameborder="0"
+                <img class="img-fluid" src="media/creative/light/light-front.jpg"  alt="light-pic" width="700" height="500">
+                <iframe class="img-fluid" src="https://player.vimeo.com/video/149319617" width="700" height="393.75" frameborder="0"
                 webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
                 <p>"Lights of Constellation" is a project I did for the Interactive Media showcase in December, 2015 at NYU Abu Dhabi.
@@ -197,10 +210,10 @@
             <div class="arts">
                 <h3>GeoMatrix</h3>
                 <h4>May, 16</h4>
-                <img src="media/art/matrix/matrix-front.jpg"  alt="matrix-pic" width="700" height="515">
-                <img src="media/art/matrix/matrix-model.jpg"  alt="matrix-pic" width="700" height="515">
-                <img src="media/art/matrix/matrix-far.jpg"  alt="matrix-pic" width="700" height="515">
-                <img src="media/art/matrix/matrix-detail.jpg"  alt="matrix-pic" width="700" height="515">
+                <img class="img-fluid" src="media/art/matrix/matrix-front.jpg"  alt="matrix-pic" width="700" height="515">
+                <img class="img-fluid" src="media/art/matrix/matrix-model.jpg"  alt="matrix-pic" width="700" height="515">
+                <img class="img-fluid" src="media/art/matrix/matrix-far.jpg"  alt="matrix-pic" width="700" height="515">
+                <img class="img-fluid" src="media/art/matrix/matrix-detail.jpg"  alt="matrix-pic" width="700" height="515">
 
                 <p>GeoMatrix is a sculpture project I created for the end-of-semester 3D show at NYU Abu Dhabi in May, 2016.
                    The structure is built with roughly 50 wooden sticks. Each 35cm long, 3cm by 3cm thick. They are drilled and joined
@@ -210,9 +223,15 @@
 
         </div> <!-- art  -->
 
+    </div> <!-- class="col-md-8 col-sm-9" -->
+
+    </div>
+
         <!-- <footer>
             <p>Cynthia Xin Tong &copy; 2017</p>
         </footer> -->
+
+    </div>
     </body>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
