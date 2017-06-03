@@ -169,8 +169,7 @@ ul#code-projects > li {
 
 .projectPics {
     margin: auto;
-    margin: 10px;
-    margin-bottom: 10px;
+    margin: 10px 0;
     filter: grayscale(70%);
     opacity: 0.8;
     border: 2px solid #cccccc;
@@ -202,8 +201,8 @@ h4 {
 }
 
 .creatives > img, .arts > img {
-    margin: 10px;
-    margin-bottom: 10px;
+    margin: auto;
+    margin: 10px 0;
     border: 2px solid #cccccc;
 }
 
@@ -278,7 +277,15 @@ footer {
 
 @media only screen and (max-width: 768px) {
     ul {
-          padding-left: 15px;
+        padding-left: 0;
+    }
+    div#skill-sets {
+        height: 480px;
+    }
+    div.skills {
+        float: none;
+        width: 100%;
+        margin-left: -5px;
     }
 
     #main, #code, #creative, #art {
