@@ -50,7 +50,7 @@ header {
 
 div.contact {
     position: absolute;
-    bottom: 3%;
+    bottom: 1%;
 }
 
 span {
@@ -237,6 +237,7 @@ footer {
         background-color: #e6e6e6;
         z-index: 1;
         left: -15em;
+        height: 100%;
     }
 
     .nav-transform {
