@@ -34,7 +34,9 @@ function adjustNav() {
         });
 
         $(document).scroll(function(){
-            navArea.style.transform =  "translateX(-15em)";
+            if ($(window).width() < 980){
+                navArea.style.transform =  "translateX(-15em)";
+            }
         });
 
     }
