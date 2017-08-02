@@ -19,7 +19,7 @@ html, body {
 }*/
 
 #nav {
-    position: sticky;
+    position: fixed;
     top: 0px;
     width: auto;
     height: 800px;
