@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 html, body {
     font-family: 'Open Sans', sans-serif;
@@ -44,8 +45,12 @@ header {
     padding-left: 25%;
     width: 110%;
     height: 80%;
-
     border-right: 2px dashed  #cccccc;
+    font-family: 'Ubuntu', 'Open Sans', sans-serif;
+}
+
+ul#nav-links {
+  padding: 2px;
 }
 
 div.contact {
@@ -106,12 +111,16 @@ li > a:hover {
     position: relative;
     top: 50px;
     padding-top: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     width: 100%;
     height: auto;
     text-align: center;
 
     border-bottom: 1px solid #cccccc;
+}
+
+#main {
+  padding-bottom: 0;
 }
 
 #code, #creative, #art  {
@@ -136,17 +145,38 @@ h2 {
     font-size: 1.2em;
 }
 
-div#skill-sets {
-    margin-left: 10px;
-    height: 200px;
+#technical {
+    width: 80%;
+    margin: auto;
+    height: 400px;
 }
 
-div.skills {
-    float: left;
-    width: 33%;
-    margin-left: -9px;
+div#skills, div#courses {
+    width: 85%;
+    height: 40%;
+    margin: auto;
+    text-align: center;
+    clear: both;
 }
 
+#skills-list, #courses-list {
+  margin: auto;
+  margin-right: 5px;
+  padding: 0;
+  list-style-type: disc;
+}
+
+
+#skills-list li, #courses-list li {
+  display: list-item;
+  margin-left: 1em;
+  margin-right: 1em;
+  float: left;
+}
+
+#skills > h2, #courses > h2 {
+  margin-bottom: 15px;
+}
 p {
     margin-top: 20px;
 }
@@ -155,7 +185,6 @@ p {
     padding-left: 0;
     height: 250px;
 }*/
-
 
 ul#code-projects {
     padding: 0;
@@ -230,8 +259,7 @@ footer {
     }
 }
 
-@media only screen and (max-width: 980px) {
-
+@media only screen and (max-width: 1060px) {
     #nav {
         position:fixed;
         background-color: #e6e6e6;
@@ -280,13 +308,25 @@ footer {
     ul {
         padding-left: 0;
     }
-    div#skill-sets {
-        height: 480px;
+
+    #technical {
+      height: auto;
     }
-    div.skills {
-        float: none;
+
+    div#skills, div#courses {
+      height: auto;
+      margin-bottom: 20px;
+    }
+
+    #skills-list, #courses-list {
         width: 100%;
-        margin-left: -5px;
+        margin-right: 0;
+        list-style-type: none;
+    }
+
+    #skills-list li, #courses-list li {
+      float: none;
+      margin: 0;
     }
 
     #main, #code, #creative, #art {
