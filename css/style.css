@@ -309,6 +309,16 @@ footer {
         padding-left: 0;
     }
 
+    ul#code-projects > li, .creatives, .arts {
+      width: 100%;
+    }
+
+
+    ul#code-projects > li > p, .creatives > p, .arts > p {
+      width: 90%;
+      margin: auto;
+    }
+
     #technical {
       height: auto;
     }
