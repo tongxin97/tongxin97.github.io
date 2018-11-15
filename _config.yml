@@ -23,5 +23,7 @@ nav:
    link: "index"
  - name: "Resume"
    link: "./media/Xin_Tong_CV.pdf"
+ - name: "Blog"
+   link: "/blog"
  - name: "Contact"
    link: "contact"

@@ -17,12 +17,12 @@ My academic/research areas of interest include:
 
 ## Research Experience
 
-* Undergraduate Capstone Researcher, NYUAD. _March 18 - Now_
+* Undergraduate Capstone Researcher &nbsp;&nbsp; NYUAD &nbsp; _March 18 - Now_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Designing and implementing a blockchain-based content distribution forum with user-level moderation ability,
   aiming to maximize Internet freedom of speech in an age of media censorship.
 <br/><br/>
-* Summer Research Intern, NYU Tandon. _June - August 17_
+* Summer Research Intern &nbsp;&nbsp; NYU Tandon &nbsp; _June - August 17_
   + Faculty advisors:
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Justin Cappos</a>,
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Albert Rafetseder</a>
@@ -31,7 +31,23 @@ My academic/research areas of interest include:
 
 ## Industry Experience
 
-## Personal / Class Projects
+* Summer Engineering Intern &nbsp;&nbsp; WeChat, Tencent &nbsp; _June - August 18_
+  + Team: <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Programs</a>
+  + Contributed to the Mini Game framework by developing multiplayer game prototypes (mobile front-end)
+  + Contributed to the Mini Program/Game library by adding APIs that support features such as
+  VoIP chat within Mini Games
+
+## Open Source Micro Projects
+* Chordinate, a React Native app for practicing piano chord progressions. <a href="https://github.com/guyu96/chordinate" target="_blank">[code]</a>
+
+* Web Development for <a href="https://www.thegazelle.org/" target="_blank">The Gazelle</a>, NYUAD.
+  <a href="https://github.com/thegazelle-ad/gazelle-server/issues?utf8=%E2%9C%93&q=cynthiatong+" target="_blank">[issues and contributions]</a>
+
+* Audio Wave, a Web Audio Visualizer with D3.js.
+<a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a>
+<a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a>
+
+* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> Class projects <a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
 
 ## Miscellaneous
-
+* <a href="http://xt405.nyuad.im/CommTech_blog/" target="_blank">Comunication & Technology class blog</a>
