@@ -9,19 +9,18 @@ is_contact: true
 
 ---
 
-## Mailing Address
+### Social
+
+1. [Github](https://github.com/CynthiaTong)
+2. [LinkedIn](https://www.linkedin.com/in/xin-tong-470bbb86/)
+
+---
+### Mailing Address
 
 > New York University Abu Dhabi,
 >
-> Saadiyat Island,
-> Abu Dhabi
+> Saadiyat Island, Abu Dhabi,
 >
 > PO Box 129188,
 >
 > United Arab Emirates
-
----
-
-## Social
-
-1. [LinkedIn](https://www.linkedin.com/in/xin-tong-470bbb86/)
