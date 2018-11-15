@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Xin Tong Personal Website
 ---
 
 ## About Me
