@@ -1,0 +1,27 @@
+title: Xin Tong
+url: "https://cynthiatong.github.io"
+baseurl: ""
+
+favicon: true
+favicon_location: "media/favicon.ico"
+is_contact: false
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://cynthiatong.github.io"
+footer_text: "Xin Tong &copy; 2018"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "index"
+ - name: "Resume"
+   link: "./media/Xin_Tong_CV.pdf"
+ - name: "Contact"
+   link: "contact"
