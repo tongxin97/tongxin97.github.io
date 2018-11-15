@@ -33,7 +33,7 @@ My academic/research areas of interest include:
 
 * Summer Engineering Intern &nbsp;&nbsp; WeChat, Tencent &nbsp; _June - August 18_
   + Team: <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Programs</a>
-  + Contributed to the Mini Game framework by developing multiplayer game prototypes (mobile front-end)
+  + Contributed to the Mini Game framework by developing real-time multiplayer game prototypes (mobile, server-less)
   + Contributed to the Mini Program/Game library by adding APIs that support features such as
   VoIP chat within Mini Games
 
