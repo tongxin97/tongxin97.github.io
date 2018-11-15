@@ -47,7 +47,9 @@ My academic/research areas of interest include:
 <a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a>
 <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a>
 
-* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> Class projects <a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
+* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> Class projects
+<a href="https://github.com/CynthiaTong/drawing-on-the-web" target="_blank">[code]</a>
+<a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
 
 ## Miscellaneous
 * <a href="http://xt405.nyuad.im/CommTech_blog/" target="_blank">Comunication & Technology class blog</a>
