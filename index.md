@@ -17,12 +17,12 @@ My academic/research areas of interest include:
 
 ## Research Experience
 
-* Undergraduate Capstone Researcher &nbsp;&nbsp; NYUAD &nbsp; _March 18 - Now_
+* **Undergraduate Capstone Researcher, NYUAD** &nbsp; _March 18 - Now_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Designing and implementing a blockchain-based content distribution forum with user-level moderation ability,
   aiming to maximize Internet freedom of speech in an age of media censorship.
 <br/><br/>
-* Summer Research Intern &nbsp;&nbsp; NYU Tandon &nbsp; _June - August 17_
+* **Summer Research Intern, NYU Tandon** &nbsp; _June - August 17_
   + Faculty advisors:
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Justin Cappos</a>,
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Albert Rafetseder</a>
@@ -31,7 +31,7 @@ My academic/research areas of interest include:
 
 ## Industry Experience
 
-* Summer Engineering Intern &nbsp;&nbsp; WeChat, Tencent &nbsp; _June - August 18_
+* **Summer Engineering Intern, WeChat, Tencent** &nbsp; _June - August 18_
   + Team: <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Programs</a>
   + Contributed to the Mini Game framework by developing real-time multiplayer game prototypes (mobile, server-less)
   + Contributed to the Mini Program/Game library by adding APIs that support features such as
