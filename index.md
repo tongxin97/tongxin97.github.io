@@ -38,16 +38,21 @@ My academic/research areas of interest include:
   VoIP chat within Mini Games
 
 ## Open Source Micro Projects
-* Chordinate, a React Native app for practicing piano chord progressions. <a href="https://github.com/guyu96/chordinate" target="_blank">[code]</a>
+* Operating Systems class projects <a href="https://github.com/CynthiaTong/os_projects" target="_blank">[code]</a>
 
-* Web Development for <a href="https://www.thegazelle.org/" target="_blank">The Gazelle</a>, NYUAD.
+* Chordinate, a React Native app for practicing chord progressions <a href="https://github.com/guyu96/chordinate" target="_blank">[code]</a>
+
+* Web Development for <a href="https://www.thegazelle.org/" target="_blank">The Gazelle</a>, NYUAD
   <a href="https://github.com/thegazelle-ad/gazelle-server/issues?utf8=%E2%9C%93&q=cynthiatong+" target="_blank">[issues and contributions]</a>
 
-* Audio Wave, a Web Audio Visualizer with D3.js.
+* <a href="https://github.com/antiboredom/dynamicweb-2017" target="_blank">Dynamic Web Applications</a> class projects
+<a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">[code & demo links]</a>
+
+* Audio Wave, a Web Audio Visualizer with D3.js
 <a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a>
 <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a>
 
-* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> Class projects
+* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> class projects
 <a href="https://github.com/CynthiaTong/drawing-on-the-web" target="_blank">[code]</a>
 <a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
 
