@@ -19,8 +19,8 @@ is_contact: true
 
 > New York University Abu Dhabi,
 >
-> Saadiyat Island, Abu Dhabi,
->
 > PO Box 129188,
+>
+> Saadiyat Island, Abu Dhabi,
 >
 > United Arab Emirates
