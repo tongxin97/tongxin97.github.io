@@ -12,9 +12,9 @@ Hi, I'm Xin. I am a senior Computer Science student at
 Currently, I am preparing to further my studies by entering graduate school.
 
 My academic/research areas of interest include:
-+ _networks & distributed systems_
-+ _algorithms, theory & security_
++ _computer systems_
 + _software engineering_
++ _algorithms, theory & security_
 
 ## Research Experience
 
@@ -34,7 +34,7 @@ My academic/research areas of interest include:
 
 * **Software Engineering Intern, WeChat, Tencent** &nbsp; _June - August 18_
   + Team: <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Programs</a>
-  + Developed real-time, multi-player game prototypes using the *Mini Game* framework (language: JavaScript; HTML5 game engine: Layabox)
+  + Developed real-time, multiplayer game prototypes using the *Mini Game* framework (language: JavaScript; HTML5 game engine: Layabox)
   + Expanded the *Mini Program/Game* library by adding APIs to support the latest networking, file storage and multimedia features (such as VoIP chat within mini games)
   + Solved issues raised by developers on the *Mini Program* community forum
 
