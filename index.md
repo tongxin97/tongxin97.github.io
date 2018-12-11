@@ -20,8 +20,8 @@ My academic/research areas of interest include:
 
 * **Undergraduate Capstone Researcher, NYUAD** &nbsp; _March 18 - Now_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
-  + Design and implement an online discussion forum, using p2p network and blockchain technologies for distributed content sharing and storage
-  + Key feature: the forum allows for user-level moderation, aiming to maximize Internet freedom of speech in an age of media censorship
+  + Design and implement a blockchain-based distributed storage system, using Proof of Replication / Data Possession schemes
+  + Create a decentralized discussion forum application, in support of preserving Internet freedom of speech in an age of media censorship
 <br/><br/>
 * **Summer Research Intern, Secure Systems Lab, NYU Tandon** &nbsp; _June - August 17_
   + Faculty advisors:
