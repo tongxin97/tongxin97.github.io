@@ -11,10 +11,9 @@ Hi, I'm Xin. I am a senior Computer Science student at
 <a href="https://nyuad.nyu.edu/en/" target="_blank">New York University Abu Dhabi</a>
 Currently, I am preparing to further my studies by entering graduate school.
 
-My academic/research areas of interest include:
-+ _computer systems_
-+ _software engineering_
-+ _algorithms, theory & security_
+My primary academic/research areas of interest are:
++ _computer systems and networking_
++ _information systems and data analytics_
 
 ## Research Experience
 
