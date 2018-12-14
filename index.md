@@ -20,7 +20,7 @@ My primary academic/research areas of interest are:
 * **Undergraduate Capstone Researcher, NYUAD** &nbsp; _March 18 - Now_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Design and implement a blockchain-based distributed storage system, using Proof of Replication / Data Possession schemes
-  + Create a decentralized discussion forum application, in support of preserving Internet freedom of speech in an age of media censorship
+  + Create a decentralized discussion forum application on top of the storage system, in support of Internet freedom of speech
 <br/><br/>
 * **Summer Research Intern, Secure Systems Lab, NYU Tandon** &nbsp; _June - August 17_
   + Faculty advisors:
@@ -44,6 +44,10 @@ My primary academic/research areas of interest are:
 
 * Web Development for <a href="https://www.thegazelle.org/" target="_blank">The Gazelle</a>, NYUAD
   <a href="https://github.com/thegazelle-ad/gazelle-server/issues?utf8=%E2%9C%93&q=cynthiatong+" target="_blank">[contributions]</a>
+
+* Advertise DHT, distributed advertise methods for Seattle <a href="https://github.com/SeattleTestbed/seattlelib_v2" target="_blank">RepyV2</a> library
+<a href="https://github.com/CynthiaTong/advertise_dht" target="_blank">[code]</a>
+<a href="https://github.com/CynthiaTong/advertise_dht/blob/master/media/Xin_Tong_summer17_research.pdf" target="_blank">[demo]</a>
 
 * Acamaniac, an academic schedule planner for NYUAD students
 <a href="https://github.com/guyu96/nyuad-course-planner/tree/react/react-app" target="_blank">[code]</a>
