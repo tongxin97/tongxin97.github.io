@@ -7,20 +7,17 @@ title: Xin Tong Personal Website
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin. I am a senior Computer Science student at
-<a href="https://nyuad.nyu.edu/en/" target="_blank">New York University Abu Dhabi</a>
-Currently, I am preparing to further my studies by entering graduate school.
+Hi, I'm Xin. I earned a B.S. degree in Computer Science from <a href="https://nyuad.nyu.edu/en/" target="_blank">New York University Abu Dhabi</a> and I'm joining <a href="https://cs.illinois.edu/" target="_blank">Illinois Computer Science</a> as a MSCS student in Fall, 19.
 
 My primary academic/research areas of interest are:
-+ _computer systems and networking_
-+ _information systems and data analytics_
++ _big-data systems and data science_
++ _distributed systems and networking_
 
 ## Research Experience
 
-* **Undergraduate Capstone Researcher, NYUAD** &nbsp; _March 18 - Now_
+* **Undergraduate Capstone Researcher, NYUAD** &nbsp; _September 18 - May 19_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
-  + Design and implement a blockchain-based distributed storage system, using Proof of Replication / Data Possession schemes
-  + Create a decentralized discussion forum application on top of the storage system, in support of Internet freedom of speech
+  + Designed and partially implemented a blockchain-based distributed storage system with a Proof of Replication storage verification scheme and P2P networking capacity
 <br/><br/>
 * **Summer Research Intern, Secure Systems Lab, NYU Tandon** &nbsp; _June - August 17_
   + Faculty advisors:
