@@ -10,8 +10,9 @@ title: Xin Tong Personal Website
 Hi, I'm Xin. I earned a B.S. degree in Computer Science from <a href="https://nyuad.nyu.edu/en/" target="_blank">New York University Abu Dhabi</a> and I'm joining <a href="https://cs.illinois.edu/" target="_blank">Illinois Computer Science</a> as a MSCS student in Fall, 19.
 
 My primary academic/research areas of interest are:
-+ _big-data systems and data science_
+<!-- + _big-data systems and data science_ -->
 + _distributed systems and networking_
++ _software engineering_
 
 ## Research Experience
 
