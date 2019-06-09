@@ -11,8 +11,8 @@ Hi, I'm Xin. I earned a B.S. degree in Computer Science from <a href="https://ny
 
 My primary academic/research areas of interest are:
 <!-- + _big-data systems and data science_ -->
-+ _distributed systems and networking_
-+ _software engineering_
++ _computer systems and networking_
++ _software design and engineering_
 
 ## Research Experience
 
