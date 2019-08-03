@@ -62,5 +62,3 @@ My primary academic/research areas of interest are:
 <a href="https://github.com/CynthiaTong/drawing-on-the-web" target="_blank">[code]</a>
 <a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
 
-## Miscellaneous
-* <a href="http://xt405.nyuad.im/CommTech_blog/" target="_blank">Communication & Technology class blog</a>
