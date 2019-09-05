@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Xin Tong Personal Website
+title: Xin (Cynthia) Tong Personal Website
 ---
 
 ## About Me
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign, currently seeking software engineering internships for summer, 2020. Before coming to the Midwest, I interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
+Hi, I'm Xin (Cynthia), M.S. Computer Science student at University of Illinois at Urbana Champaign, currently seeking software engineering internships for summer, 2020. Before coming to the Midwest, I interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
 
 ## Work & Research Experience
 
