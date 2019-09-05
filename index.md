@@ -7,35 +7,33 @@ title: Xin Tong Personal Website
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin. I earned a B.S. degree in Computer Science from <a href="https://nyuad.nyu.edu/en/" target="_blank">New York University Abu Dhabi</a> and I'm joining <a href="https://cs.illinois.edu/" target="_blank">Illinois Computer Science</a> as a MSCS student in Fall, 19.
+Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign, currently seeking software engineering internships for summer, 2020. Before coming to the Midwest, I interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
 
-My primary academic/research areas of interest are:
-+ _big-data systems and data science_
-+ _computer systems and networking_
-+ _software engineering_
+## Work & Research Experience
 
-## Research Experience
-
-* **Undergraduate Capstone Researcher, NYUAD** &nbsp; _September 18 - May 19_
+* **Undergraduate Thesis on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
-  + Designed and partially implemented a blockchain-based distributed storage system with a Proof of Replication storage verification scheme and P2P networking capacity
+  + Designed and partially implemented a blockchain-based P2P data storage system with a decentralized storage verification scheme and networking stack. The storage system is going to support a decentralized online forum application, where each user has the ability to post and moderate content.
+  + Wrote a system design white-paper (to be published); implemented with ~5k lines of Golang.
 <br/><br/>
-* **Summer Research Intern, Secure Systems Lab, NYU Tandon** &nbsp; _June - August 17_
+
+* **Web Development at <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Program Center</a>, Tencent** &nbsp; _June - August 18_
+  + Developed real-time, multiplayer game prototypes using the WeChat Mini Game framework and LayaBox HTML5 game engine. Games are designed so that players join and team up from group chats, boosting the communal experience.
+  + Expanded the WeChat Mini Program/Game library by adding APIs to support the latest networking, file storage and multimedia features, such as VoIP chat. Developed feature-testing prototypes that cover each added API.
+  + Helped solve developer issues on the community forum for three months.
+<br/><br/>
+
+* **P2P Networking Research at Secure Systems Lab, NYU Tandon** &nbsp; _June - August 17_
   + Faculty advisors:
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Justin Cappos</a>,
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Albert Rafetseder</a>
   + Developed a Distributed Hash Table (DHT)-based information advertisement and lookup library for <a href="https://seattle.poly.edu/html/" target="_blank">Seattle Testbed</a>, a cloud computing platform for networking and distributed systems research
-  + Programming language: Python; tools: Git, SSH, Wireshark
+  + Followed the BitTorrent BEP5 and BEP44 protocol standards; Implemented with ~4k lines of Python.
 
-## Industry Experience
-
-* **Software Engineering Intern, WeChat, Tencent** &nbsp; _June - August 18_
-  + Team: <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Programs</a>
-  + Developed real-time, multiplayer game prototypes using the *Mini Game* framework (language: JavaScript; HTML5 game engine: Layabox)
-  + Expanded the *Mini Program/Game* library by adding APIs to support the latest networking, file storage and multimedia features (such as VoIP chat within mini games)
-  + Solved issues raised by developers on the *Mini Program* community forum
 
 ## Open Source Projects
+* Noise, a lightweight p2p networking stack in Golang (forked) <a href="https://github.com/tongxin97/noise" target="_blank">[code]</a>
+
 * Operating Systems class projects <a href="https://github.com/CynthiaTong/os_projects" target="_blank">[code]</a>
 
 * Chordinate, a React Native app for practicing chord progressions <a href="https://github.com/guyu96/chordinate" target="_blank">[code]</a>
