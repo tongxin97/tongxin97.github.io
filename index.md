@@ -7,7 +7,7 @@ title: Xin (Cynthia) Tong Personal Website
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin (Cynthia), M.S. Computer Science student at University of Illinois at Urbana Champaign, currently seeking software engineering internships for summer, 2020. Before coming to the Midwest, I interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
+Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign. Before coming to the Midwest, I spent my undergraduate years in Abu Dhabi and New York and got my B.S. degree from New York University. Professionally speaking, I have interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
 
 ## Work & Research Experience
 
@@ -32,7 +32,11 @@ Hi, I'm Xin (Cynthia), M.S. Computer Science student at University of Illinois a
 
 
 ## Open Source Projects
-* Noise, a lightweight p2p networking stack in Golang (forked) <a href="https://github.com/tongxin97/noise" target="_blank">[code]</a>
+* Demo application with React Native frontend, Python Django backend and SQLite+MongoDB storage schemes. <a href="https://github.com/Lat-2340" target="_blank">[repos]</a>
+
+* My solutions to the MIT 6.824 Distributed Systems labs (In progress) <a href="https://github.com/tongxin97/6.824" target="_blank">[code]</a>
+
+<!-- * Noise, a lightweight p2p networking stack in Golang (forked) <a href="https://github.com/tongxin97/noise" target="_blank">[code]</a> -->
 
 * Operating Systems class projects <a href="https://github.com/CynthiaTong/os_projects" target="_blank">[code]</a>
 
@@ -49,14 +53,14 @@ Hi, I'm Xin (Cynthia), M.S. Computer Science student at University of Illinois a
 <a href="https://github.com/guyu96/nyuad-course-planner/tree/react/react-app" target="_blank">[code]</a>
 <a href="https://acamaniac.herokuapp.com/" target="_blank">[demo]</a>
 
-* <a href="https://github.com/antiboredom/dynamicweb-2017" target="_blank">Dynamic Web Applications</a> class projects
-<a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">[code]</a>
+<!-- * <a href="https://github.com/antiboredom/dynamicweb-2017" target="_blank">Dynamic Web Applications</a> class projects
+<a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">[code]</a> -->
 
 * Audio Wave, a Web Audio Visualizer
 <a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a>
-<a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a>
+<!-- <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a> -->
 
-* <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> class projects
-<a href="https://github.com/CynthiaTong/drawing-on-the-web" target="_blank">[code]</a>
-<a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a>
+<!-- * <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> class projects
+<a href="https://github.com/CynthiaTong/drawing-on-the-web" target="_blank">[code]</a> -->
+<!-- <a href="http://xt405.nyuad.im/draw_web/" target="_blank">[demo]</a> -->
 
