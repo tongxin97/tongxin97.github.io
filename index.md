@@ -14,7 +14,7 @@ Previously, I interned at WeChat (Tencent) in summer 2018. I also have research 
 
 ## Work & Research Experience
 
-* **Full-stack Web Development at Facebook** &nbsp; _May - August 19_
+* **Full-stack Web Development at Facebook** &nbsp; _May - August 20_
   + Set up a new base path and implemented a new server and routing scheme for an advertiser-facing product in Ads Measurement org. Launched the project internally (planned for external launch afterwards).
   + Applied performance optimization techinques to improve the initial page load time of the product.
   + Implemented with ~9k lines of Hacklang(PHP) and JavaScript.
