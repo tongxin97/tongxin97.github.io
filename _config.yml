@@ -1,4 +1,4 @@
-title: Xin Cynthia Tong
+title: Xin Tong
 url: "https://tongxin97.github.io"
 baseurl: ""
 
@@ -12,7 +12,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://tongxin97.github.io"
-footer_text: "Xin Cynthia Tong &copy; 2019"
+footer_text: "Xin Tong &copy; 2020"
 
 sass:
   style: compressed
@@ -22,7 +22,7 @@ nav:
  - name: "Home"
    link: "index"
  - name: "Resume"
-   link: "./media/Xin_Cynthia_Tong_Resume.pdf"
+   link: "./media/Xin_Tong_Resume.pdf"
 #  - name: "Blog"
 #    link: "/blog"
  - name: "Contact"

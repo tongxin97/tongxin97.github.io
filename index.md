@@ -1,20 +1,29 @@
 ---
 layout: default
-title: Xin (Cynthia) Tong Personal Website
+title: Xin Tong Personal Website
 ---
 
 ## About Me
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign. Before coming to the Midwest, I spent my undergraduate years in Abu Dhabi and New York and got my B.S. degree from New York University. Professionally speaking, I have interned with WeChat (Tencent) as a Web developer and worked on research projects in the Computer Systems and Networking area.
+Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign. Before coming to the Midwest, I spent my undergraduate years in Abu Dhabi and New York and got my B.S. degree from New York University.
+
+I interned at Facebook in summer 2020 and worked on full-stack Web development in the Ads Measurement org.
+Previously, I interned at WeChat (Tencent) in summer 2018. I also have research experience in the Computer Systems and Networking area.
 
 ## Work & Research Experience
+
+* **Full-stack Web Development at Facebook** &nbsp; _May - August 19_
+  + Set up a new base path and implemented a new server and routing scheme for an advertiser-facing product in Ads Measurement org. Launched the project internally (planned for external launch afterwards).
+  + Applied performance optimization techinques to improve the initial page load time of the product.
+  + Implemented with ~9k lines of Hacklang(PHP) and JavaScript.
+<br/><br/>
 
 * **Undergraduate Thesis on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Designed and partially implemented a blockchain-based P2P data storage system with a decentralized storage verification scheme and networking stack. The storage system is going to support a decentralized online forum application, where each user has the ability to post and moderate content.
-  + Wrote a system design white-paper (to be published); implemented with ~5k lines of Golang.
+  + Wrote a system design white-paper; implemented with ~5k lines of Golang.
 <br/><br/>
 
 * **Web Development at <a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank">WeChat Mini Program Center</a>, Tencent** &nbsp; _June - August 18_
@@ -28,10 +37,10 @@ Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana C
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Justin Cappos</a>,
   <a href="https://ssl.engineering.nyu.edu/people#faculty" target="_blank">Albert Rafetseder</a>
   + Developed a Distributed Hash Table (DHT)-based information advertisement and lookup library for <a href="https://seattle.poly.edu/html/" target="_blank">Seattle Testbed</a>, a cloud computing platform for networking and distributed systems research
-  + Followed the BitTorrent BEP5 and BEP44 protocol standards; Implemented with ~4k lines of Python.
+  + Followed the BitTorrent BEP5 and BEP44 protocol standards; implemented with ~4k lines of Python.
 
 
-## Open Source Projects
+## Open Source Projects (outdated + TBA)
 * Demo application with React Native frontend, Python Django backend and SQLite+MongoDB storage schemes. <a href="https://github.com/Lat-2340" target="_blank">[repos]</a>
 
 * My solutions to the MIT 6.824 Distributed Systems labs (In progress) <a href="https://github.com/tongxin97/6.824" target="_blank">[code]</a>
