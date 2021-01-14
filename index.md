@@ -40,7 +40,7 @@ Here is a brief summary of my work experience: I did a remote internship at Face
 
 
 ## Open Source Projects
-* Tandoop, a custom implementation of the Randoop random test generation tool with Java-specific improvements. <a href="https://github.com/tongxin97/tandoop" target="_blank">[repos]</a>
+* Tandoop, a custom implementation of the Randoop random test generation tool with Java-specific improvements. <a href="https://github.com/tongxin97/tandoop" target="_blank">[code]</a>
 * Demo application with React Native frontend, Python Django backend and SQLite+MongoDB storage schemes. <a href="https://github.com/Lat-2340" target="_blank">[repos]</a>
 
 <!-- * My solutions to the MIT 6.824 Distributed Systems labs (In progress) <a href="https://github.com/tongxin97/6.824" target="_blank">[code]</a> -->
