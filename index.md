@@ -5,7 +5,7 @@ title: Xin Tong Personal Website
 
 ## About Me
 
-<img class="profile-picture" src="media/profile.jpeg">
+<img class="profile-picture" src="media/profile.png">
 
 Hi, I'm Xin, I am joining Facebook as a software engineer in Feb, 2021. I obtained my Master's degree in Computer Science from University of Illinois at Urbana Champaign in 2020, and my B.S. Computer Science degree from New York University (Abu Dhabi) in 2019.
 
