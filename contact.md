@@ -3,9 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [cynthiatong18@gmail.com](mailto:cynthiatong18@gmail.com) / [xint5@illinois.edu](mailto:xint5@illinois.edu)
-
-* Phone: [+1(260)239-2318](tel:+1-(260)239-2318)
+* Email: [xin.tong@nyu.edu](mailto:xin.tong@nyu.edu)
 
 ---
 
