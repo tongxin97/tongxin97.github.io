@@ -7,10 +7,9 @@ title: Xin Tong Personal Website
 
 <img class="profile-picture" src="media/profile.jpeg">
 
-Hi, I'm Xin, M.S. Computer Science student at University of Illinois at Urbana Champaign. Before coming to the Midwest, I spent my undergraduate years in Abu Dhabi and New York and got my B.S. degree from New York University.
+Hi, I'm Xin, I am joining Facebook as a software engineer in Feb, 2021. I obtained my Master's degree in Computer Science from University of Illinois at Urbana Champaign in 2020, and my B.S. Computer Science degree from New York University (Abu Dhabi) in 2019.
 
-I interned at Facebook in summer 2020 and worked on full-stack Web development in the Ads Measurement org.
-Previously, I interned at WeChat (Tencent) in summer 2018. I also have research experience in the Computer Systems and Networking area.
+Here is a brief summary of my work experience: I did a remote internship at Facebook during summer 2020 and worked on full-stack Web development in the Ads Measurement org. Previously, I interned at WeChat (Tencent) in Guangzhou during summer 2018 and had some research experience in the Computer Systems and Networking area.
 
 ## Work & Research Experience
 
@@ -40,10 +39,11 @@ Previously, I interned at WeChat (Tencent) in summer 2018. I also have research 
   + Followed the BitTorrent BEP5 and BEP44 protocol standards; implemented with ~4k lines of Python.
 
 
-## Open Source Projects (outdated + TBA)
+## Open Source Projects
+* Tandoop, a custom implementation of the Randoop random test generation tool with Java-specific improvements. <a href="https://github.com/tongxin97/tandoop" target="_blank">[repos]</a>
 * Demo application with React Native frontend, Python Django backend and SQLite+MongoDB storage schemes. <a href="https://github.com/Lat-2340" target="_blank">[repos]</a>
 
-* My solutions to the MIT 6.824 Distributed Systems labs (In progress) <a href="https://github.com/tongxin97/6.824" target="_blank">[code]</a>
+<!-- * My solutions to the MIT 6.824 Distributed Systems labs (In progress) <a href="https://github.com/tongxin97/6.824" target="_blank">[code]</a> -->
 
 <!-- * Noise, a lightweight p2p networking stack in Golang (forked) <a href="https://github.com/tongxin97/noise" target="_blank">[code]</a> -->
 
@@ -65,8 +65,8 @@ Previously, I interned at WeChat (Tencent) in summer 2018. I also have research 
 <!-- * <a href="https://github.com/antiboredom/dynamicweb-2017" target="_blank">Dynamic Web Applications</a> class projects
 <a href="https://github.com/CynthiaTong/dynamic-web-applications" target="_blank">[code]</a> -->
 
-* Audio Wave, a Web Audio Visualizer
-<a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a>
+<!-- * Audio Wave, a Web Audio Visualizer
+<a href="https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave" target="_blank">[code]</a> -->
 <!-- <a href="http://xt405.nyuad.im/Mashups/Audio_Wave/" target="_blank">[demo]</a> -->
 
 <!-- * <a href="https://cs.nyu.edu/courses/spring17/CSCI-UA.0380-002/" target="_blank">Drawing on the Web</a> class projects
