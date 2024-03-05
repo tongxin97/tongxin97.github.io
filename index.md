@@ -19,7 +19,7 @@ Prior to working full-time at WhatsApp, I obtained my Master's degree in Compute
   + Implemented with ~9k lines of Hacklang(PHP) and JavaScript.
 <br/><br/>
 
-* **Undergraduate <a href="" target="_blank">Thesis</a> on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
+* **Undergraduate <a href="./media/xin-undergrad-thesis.pdf" target="_blank">Thesis</a> on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Designed and partially implemented a blockchain-based P2P data storage system with a decentralized storage verification scheme and networking stack. The storage system is going to support a decentralized online forum application, where each user has the ability to post and moderate content.
   + Wrote a system design white-paper; implemented with ~5k lines of Golang.
