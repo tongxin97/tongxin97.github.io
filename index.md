@@ -7,9 +7,9 @@ title: Xin Tong Personal Website
 
 <img class="profile-picture" src="media/profile.png">
 
-Hi, I'm Xin, I am joining Facebook as a software engineer in Feb, 2021. I obtained my Master's degree in Computer Science from University of Illinois at Urbana Champaign in 2020, and my B.S. Computer Science degree from New York University (Abu Dhabi) in 2019.
+Hi, I'm Xin, I joined WhatsApp/Facebook as a software engineer in Feb, 2021, and have since been working in the product & platform infra domains.
 
-Here is a brief summary of my work experience: I did a remote internship at Facebook during summer 2020 and worked on full-stack Web development in the Ads Measurement org. Previously, I interned at WeChat (Tencent) in Guangzhou during summer 2018 and had some research experience in the Computer Systems and Networking area.
+Prior to working full-time at WhatsApp, I obtained my Master's degree in Computer Science from University of Illinois at Urbana Champaign (UIUC) in 2020, and my B.S. Computer Science degree from New York University (Abu Dhabi) in 2019. During my school years, I did several engineering and research projects in the Computer Systems and Networking areas.
 
 ## Work & Research Experience
 
@@ -19,7 +19,7 @@ Here is a brief summary of my work experience: I did a remote internship at Face
   + Implemented with ~9k lines of Hacklang(PHP) and JavaScript.
 <br/><br/>
 
-* **Undergraduate Thesis on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
+* **Undergraduate <a href="" target="_blank">Thesis</a> on Blockchain-based P2P Storage System** &nbsp; _January - May 19_
   + Faculty advisor: <a href="https://cs.nyu.edu/~jchen/" target="_blank">Jay Chen</a>
   + Designed and partially implemented a blockchain-based P2P data storage system with a decentralized storage verification scheme and networking stack. The storage system is going to support a decentralized online forum application, where each user has the ability to post and moderate content.
   + Wrote a system design white-paper; implemented with ~5k lines of Golang.
